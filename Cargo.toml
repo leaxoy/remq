@@ -1,0 +1,12 @@
+[package]
+name = "remq"
+version = "0.1.0"
+authors = ["lixiaohui <lixiaohui0812@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+tokio="0.1"
+tokio-async-await = "0.1"
+serde="1.0"
+serde_derive="1.0"
+serde_json="1.0"
